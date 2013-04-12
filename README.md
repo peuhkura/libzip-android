@@ -1,0 +1,4 @@
+libzip-android
+==============
+
+libzip-android
